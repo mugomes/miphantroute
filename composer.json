@@ -1,0 +1,12 @@
+{
+  "name": "mugomes/miphantroute",
+  "license": "MIT",
+  "comment": [
+    "Copyright (C) 2025 Murilo Gomes Julio"
+  ],
+  "psr-4": {
+    "autoload": {
+      "MiPhantRoute\\":"src/"
+    }
+  }
+}
