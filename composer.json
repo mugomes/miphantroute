@@ -1,12 +1,14 @@
 {
   "name": "mugomes/miphantroute",
+  "version": "1.0.0",
+  "description": "Biblioteca para trabalhar com rotas de uma forma mais fácil.",
   "license": "MIT",
-  "comment": [
+  "_comment": [
     "Copyright (C) 2025 Murilo Gomes Julio"
   ],
-  "psr-4": {
-    "autoload": {
-      "MiPhantRoute\\":"src/"
+  "autoload": {
+    "psr-4": {
+      "MiPhantRoute\\": "src/"
     }
   }
 }
