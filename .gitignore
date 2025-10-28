@@ -1,0 +1,7 @@
+# folders
+vendor/
+
+# files
+composer.lock
+.htaccess
+index.php
